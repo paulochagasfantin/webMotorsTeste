@@ -1,0 +1,14 @@
+C:\tmp\WebMotors\bin\Debug\netcoreapp2.2\WebMotors.deps.json
+C:\tmp\WebMotors\bin\Debug\netcoreapp2.2\WebMotors.runtimeconfig.json
+C:\tmp\WebMotors\bin\Debug\netcoreapp2.2\WebMotors.runtimeconfig.dev.json
+C:\tmp\WebMotors\bin\Debug\netcoreapp2.2\WebMotors.dll
+C:\tmp\WebMotors\bin\Debug\netcoreapp2.2\WebMotors.pdb
+C:\tmp\WebMotors\obj\Debug\netcoreapp2.2\WebMotors.csprojAssemblyReference.cache
+C:\tmp\WebMotors\obj\Debug\netcoreapp2.2\WebMotors.csproj.CoreCompileInputs.cache
+C:\tmp\WebMotors\obj\Debug\netcoreapp2.2\WebMotors.RazorAssemblyInfo.cache
+C:\tmp\WebMotors\obj\Debug\netcoreapp2.2\WebMotors.RazorAssemblyInfo.cs
+C:\tmp\WebMotors\obj\Debug\netcoreapp2.2\WebMotors.AssemblyInfoInputs.cache
+C:\tmp\WebMotors\obj\Debug\netcoreapp2.2\WebMotors.AssemblyInfo.cs
+C:\tmp\WebMotors\obj\Debug\netcoreapp2.2\WebMotors.RazorTargetAssemblyInfo.cache
+C:\tmp\WebMotors\obj\Debug\netcoreapp2.2\WebMotors.dll
+C:\tmp\WebMotors\obj\Debug\netcoreapp2.2\WebMotors.pdb
